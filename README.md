@@ -143,15 +143,3 @@ digital-library-database/
 - Build a simple front-end (web or desktop) on top of the database
 
 ---
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Course: Database Management Systems (DBMS)
-
----
-
-## 📄 License
-
-This project is for educational purposes. Licensed under the [MIT License](LICENSE).
